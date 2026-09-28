@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: ledgerlite
+Version: 0.1.0
+Summary: A lightweight double-entry ledger CLI
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0.0; extra == "dev"
+Requires-Dist: ruff>=0.1.0; extra == "dev"

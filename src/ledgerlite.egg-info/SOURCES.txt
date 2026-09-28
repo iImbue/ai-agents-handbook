@@ -1,0 +1,8 @@
+pyproject.toml
+src/ledgerlite/__init__.py
+src/ledgerlite.egg-info/PKG-INFO
+src/ledgerlite.egg-info/SOURCES.txt
+src/ledgerlite.egg-info/dependency_links.txt
+src/ledgerlite.egg-info/requires.txt
+src/ledgerlite.egg-info/top_level.txt
+tests/test_core.py
